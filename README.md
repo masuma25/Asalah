@@ -66,7 +66,7 @@ A web application that classifies text as AI-written, human-written, or paraphra
 The application uses a fine-tuned BERT model trained to classify text as:
 - AI-written
 - Human-written
-- Paraphrased
+  
 
 The preprocessing steps include:
 - Text cleaning (removing special characters, URLs, etc.)
