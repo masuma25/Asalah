@@ -1,6 +1,6 @@
 # AI-Human Text Classification
 
-A web application that classifies text as AI-written, human-written, or paraphrased using a fine-tuned BERT model.
+A web application that classifies text as AI-written, human-written
 
 ## Features
 
